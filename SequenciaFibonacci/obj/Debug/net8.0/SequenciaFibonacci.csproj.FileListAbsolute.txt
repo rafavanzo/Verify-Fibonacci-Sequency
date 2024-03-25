@@ -1,0 +1,14 @@
+c:\Users\rafac\dev\testes\Target\SequenciaFibonacci\bin\Debug\net8.0\SequenciaFibonacci.exe
+c:\Users\rafac\dev\testes\Target\SequenciaFibonacci\bin\Debug\net8.0\SequenciaFibonacci.deps.json
+c:\Users\rafac\dev\testes\Target\SequenciaFibonacci\bin\Debug\net8.0\SequenciaFibonacci.runtimeconfig.json
+c:\Users\rafac\dev\testes\Target\SequenciaFibonacci\bin\Debug\net8.0\SequenciaFibonacci.dll
+c:\Users\rafac\dev\testes\Target\SequenciaFibonacci\bin\Debug\net8.0\SequenciaFibonacci.pdb
+c:\Users\rafac\dev\testes\Target\SequenciaFibonacci\obj\Debug\net8.0\SequenciaFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rafac\dev\testes\Target\SequenciaFibonacci\obj\Debug\net8.0\SequenciaFibonacci.AssemblyInfoInputs.cache
+c:\Users\rafac\dev\testes\Target\SequenciaFibonacci\obj\Debug\net8.0\SequenciaFibonacci.AssemblyInfo.cs
+c:\Users\rafac\dev\testes\Target\SequenciaFibonacci\obj\Debug\net8.0\SequenciaFibonacci.csproj.CoreCompileInputs.cache
+c:\Users\rafac\dev\testes\Target\SequenciaFibonacci\obj\Debug\net8.0\SequenciaFibonacci.dll
+c:\Users\rafac\dev\testes\Target\SequenciaFibonacci\obj\Debug\net8.0\refint\SequenciaFibonacci.dll
+c:\Users\rafac\dev\testes\Target\SequenciaFibonacci\obj\Debug\net8.0\SequenciaFibonacci.pdb
+c:\Users\rafac\dev\testes\Target\SequenciaFibonacci\obj\Debug\net8.0\SequenciaFibonacci.genruntimeconfig.cache
+c:\Users\rafac\dev\testes\Target\SequenciaFibonacci\obj\Debug\net8.0\ref\SequenciaFibonacci.dll
